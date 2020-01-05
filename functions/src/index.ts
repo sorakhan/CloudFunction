@@ -1,4 +1,5 @@
 export { basicHTTP } from './http';
+export { api } from './http';
 
 // import * as functions from 'firebase-functions';
 
